@@ -5,7 +5,7 @@ Aleph Factory Set
 
 Created by: [**dspk**](http://llllllll.co/users/dspk)
 
-https://vimeo.com/video/124805949
+https://vimeo.com/124805949
 
 versions
 --------
