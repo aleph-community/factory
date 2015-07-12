@@ -3,11 +3,9 @@ Aleph Factory Set
 
 4 scenes for audio processing. All sharing common functions.
 
-Video
------
-<html>
-<iframe src="https://player.vimeo.com/video/124805949?byline=0&portrait=0" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</html>
+Created by: [**dspk**](http://llllllll.co/users/dspk)
+
+https://vimeo.com/video/124805949
 
 versions
 --------
@@ -16,7 +14,7 @@ versions
 
 download
 --------
-- {{:aleph:bees:sharing:factory.zip|}}
+- See the [releases](https://github.com/aleph-community/factory/releases) page
 
 !!! WARNING !!!
   - Lines (versions 0.2.1 and earlier) fills the buffer with whitenoise when you load it, for a number of these scenes this will blast your/ears speakers when you load them up, turn the volume down!
